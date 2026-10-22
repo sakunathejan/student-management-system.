@@ -1,0 +1,9 @@
+# Compiled Java files
+*.class
+
+# Temporary files
+*.tmp
+*.log
+
+# Backup files
+*~
